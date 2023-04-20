@@ -1,2 +1,2 @@
-# https://dilipmistri.github.io/
+# dilipmistri.github.io/
 A Simple Websites for hosting on github pages
